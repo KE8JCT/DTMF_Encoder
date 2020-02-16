@@ -1,4 +1,4 @@
-phonenum = [3 3 4 3 3 2 4 3 3 3];
+phonenum = [2 1 6 5 5 5 3 4 4 3]; %example phone number
 dtmfdial(phonenum);
 
 L = 64;
